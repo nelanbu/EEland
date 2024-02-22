@@ -1,7 +1,7 @@
 # EE Airlines Route and Flight Management System
 
 ## Overview
-This project is a comprehensive C++ implementation designed to manage the intricate operations of EE Airlines, a fictional air travel company operating within the Republic of Eeland. The system is built on advanced graph data structures to efficiently handle routes, flights, and various airline management tasks such as adding or removing cities, routes, computing flight plans, and optimizing airline operations based on occupancy rates and profitability. It is a project from Data Structures course in METU.
+This project is a comprehensive C++ implementation designed to manage the intricate operations of EE Airlines, a fictional air travel company operating within the Republic of Eeland. The system is built on advanced graph data structures to efficiently handle routes, flights, and various airline management tasks such as adding or removing cities, routes, computing flight plans, and optimizing airline operations based on occupancy rates and profitability. This project is part of the Data Structures course at METU.
 
 ## Features
 - **Graph-Based Route Management:** Utilizes directed graphs to represent and manage airline routes between cities.
