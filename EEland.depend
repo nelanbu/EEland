@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1608130941 source:c:\users\yagmu\desktop\441-data\tests\eeland\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	"City.h"
+	"Route.h"
+	"Graph.h"
+	"BinSearchTree.h"
+	"Queue.h"
+	<queue>
+
+1608064829 c:\users\yagmu\desktop\441-data\tests\eeland\include\city.h
+	<string>
+
+1608065225 c:\users\yagmu\desktop\441-data\tests\eeland\include\route.h
+	"City.h"
+	<string>
+
+1608127210 c:\users\yagmu\desktop\441-data\tests\eeland\include\graph.h
+	<iostream>
+	<fstream>
+	<string>
+
+1608129479 c:\users\yagmu\desktop\441-data\tests\eeland\include\binsearchtree.h
+	<iostream>
+	<fstream>
+	<string>
+	"Queue.h"
+	<queue>
+
+1608129555 c:\users\yagmu\desktop\441-data\tests\eeland\include\queue.h
+	<iostream>
+
